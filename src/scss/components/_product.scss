@@ -1,0 +1,21 @@
+.product-container {
+  margin-top: 3rem;
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  justify-items: center;
+  &__product {
+    margin: 3rem auto;
+    width: 20rem;
+    height: 20rem;
+    border: 1px solid #000;
+
+    &--items {
+      margin-top: 3rem;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      font-size: 1.4rem;
+    }
+  }
+}

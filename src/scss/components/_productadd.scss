@@ -1,0 +1,46 @@
+.product-form {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  position: relative;
+  margin-top: 3rem;
+  &__element {
+    display: flex;
+    width: 20%;
+    flex-direction: row;
+    position: relative;
+    justify-content: space-between;
+    align-items: center;
+    justify-items: center;
+    font-size: 1.4rem;
+    margin-top: 1.3rem;
+    &--title {
+      font-size: 1.5rem;
+    }
+    &--input {
+      font-size: 1.3rem;
+    }
+
+    &--form {
+      border: 1px solid #000;
+      margin-top: 6rem;
+      padding: 1rem 1rem;
+      width: 40%;
+      .product-form__element {
+        width: 100%;
+        height: 100%;
+        &--input {
+          width: 60%;
+        }
+      }
+    }
+    &--desc {
+      margin-top: 1rem;
+      font-size: 1.8rem;
+    }
+  }
+}
+
+#productType {
+  width: 10rem;
+}

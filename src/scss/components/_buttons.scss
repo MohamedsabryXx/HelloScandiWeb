@@ -1,0 +1,38 @@
+.btn {
+  padding: 1rem;
+  border: 1px solid #000;
+  text-decoration: none;
+  color: #000;
+
+  &-add {
+    margin-right: 2.5rem;
+  }
+}
+
+.product-header {
+  &__buttons {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+}
+
+.delete-checkbox {
+  position: relative;
+  top: 2.5rem;
+  left: 2.5rem;
+  font-size: 1.7rem;
+}
+
+button,
+input[type="submit"],
+input[type="reset"] {
+  background: none;
+  color: inherit;
+  border: none;
+  padding: 0;
+  font: inherit;
+  cursor: pointer;
+  outline: inherit;
+}
