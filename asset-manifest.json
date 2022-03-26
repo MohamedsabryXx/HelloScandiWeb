@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/HelloScandiWeb/static/css/main.7ebe0efa.css",
+    "main.js": "/HelloScandiWeb/static/js/main.3896857d.js",
+    "index.html": "/HelloScandiWeb/index.html",
+    "main.7ebe0efa.css.map": "/HelloScandiWeb/static/css/main.7ebe0efa.css.map",
+    "main.3896857d.js.map": "/HelloScandiWeb/static/js/main.3896857d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ebe0efa.css",
+    "static/js/main.3896857d.js"
+  ]
+}
