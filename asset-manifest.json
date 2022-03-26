@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/helloscandiweb/static/css/main.7ebe0efa.css",
-    "main.js": "/helloscandiweb/static/js/main.6813b1e8.js",
-    "index.html": "/helloscandiweb/index.html",
-    "main.7ebe0efa.css.map": "/helloscandiweb/static/css/main.7ebe0efa.css.map",
-    "main.6813b1e8.js.map": "/helloscandiweb/static/js/main.6813b1e8.js.map"
+    "main.css": "/HelloScandiWeb/static/css/main.7ebe0efa.css",
+    "main.js": "/HelloScandiWeb/static/js/main.6813b1e8.js",
+    "index.html": "/HelloScandiWeb/index.html",
+    "main.7ebe0efa.css.map": "/HelloScandiWeb/static/css/main.7ebe0efa.css.map",
+    "main.6813b1e8.js.map": "/HelloScandiWeb/static/js/main.6813b1e8.js.map"
   },
   "entrypoints": [
     "static/css/main.7ebe0efa.css",
