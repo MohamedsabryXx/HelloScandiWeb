@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/helloscandiweb/static/css/main.7ebe0efa.css",
-    "main.js": "/helloscandiweb/static/js/main.e7a29a98.js",
+    "main.js": "/helloscandiweb/static/js/main.b1df4b46.js",
     "index.html": "/helloscandiweb/index.html",
     "main.7ebe0efa.css.map": "/helloscandiweb/static/css/main.7ebe0efa.css.map",
-    "main.e7a29a98.js.map": "/helloscandiweb/static/js/main.e7a29a98.js.map"
+    "main.b1df4b46.js.map": "/helloscandiweb/static/js/main.b1df4b46.js.map"
   },
   "entrypoints": [
     "static/css/main.7ebe0efa.css",
-    "static/js/main.e7a29a98.js"
+    "static/js/main.b1df4b46.js"
   ]
 }
